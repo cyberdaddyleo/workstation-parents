@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
+node_modules/
+学生家长工作台备份-*.json
+backups/
